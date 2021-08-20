@@ -1,0 +1,9 @@
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\netcoreapp3.1\FuncAppDAL.deps.json
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\netcoreapp3.1\FuncAppDAL.dll
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\netcoreapp3.1\FuncAppDAL.pdb
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\netcoreapp3.1\FuncAppDAL.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\netcoreapp3.1\FuncAppDAL.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\netcoreapp3.1\FuncAppDAL.AssemblyInfo.cs
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\netcoreapp3.1\FuncAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\netcoreapp3.1\FuncAppDAL.dll
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\netcoreapp3.1\FuncAppDAL.pdb

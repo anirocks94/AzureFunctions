@@ -1,0 +1,13 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=bnlwedfosd54321fnstg01;AccountKey=KJl6/bCKAS3tZOfUAwH7rtxVnh9CMVzJ9VPvZdQBedNPVeS8Q4icgWfG0BmAg7aFswOaFuBbt9n16SNjMOeiDg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDbEndpointUri": "dev-mongo-prac.mongo.cosmos.azure.com",
+    "CosmosDbPrimaryKey": "yPO09qKiSYWU2PEewV7M48HFauIrh0aE5bU3zM848IHXStPG6ADq3WyHWbCyLOWCPMu5nXP8PVLuw9b9sExg5w==",
+    "CosmosDatabaseName": "Dev-Mongo-DB",
+    "CosmosDbUserName": "dev-mongo-prac",
+    "CommandTimeOut": 1800
+
+  }
+}

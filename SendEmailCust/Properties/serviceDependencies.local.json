@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "cosmosdb1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.DocumentDB/databaseAccounts/dev-mongo-prac",
+      "type": "cosmosdb.azure",
+      "connectionId": "CosmosConnection",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}

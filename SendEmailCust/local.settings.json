@@ -1,0 +1,22 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=devtestingblob;AccountKey=klVwsJ2lrf6CdFyUmjM9ryR6i6k9T5umkdTMcbvy5v1Cz7ix0HQlNKJa+nXgRS3dP7FP2QcZeF71pOOdYkNOTQ==;EndpointSuffix=core.windows.net",
+    "StorageAccountKey": "klVwsJ2lrf6CdFyUmjM9ryR6i6k9T5umkdTMcbvy5v1Cz7ix0HQlNKJa+nXgRS3dP7FP2QcZeF71pOOdYkNOTQ==",
+    "StorageAccountName": "devtestingblob",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDbConnectionString": "mongodb://dev-mongo-prac:yPO09qKiSYWU2PEewV7M48HFauIrh0aE5bU3zM848IHXStPG6ADq3WyHWbCyLOWCPMu5nXP8PVLuw9b9sExg5w==@dev-mongo-prac.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@dev-mongo-prac@",
+    "CosmosDbEndpointUri": "dev-mongo-prac.mongo.cosmos.azure.com",
+    "CosmosDbPrimaryKey": "yPO09qKiSYWU2PEewV7M48HFauIrh0aE5bU3zM848IHXStPG6ADq3WyHWbCyLOWCPMu5nXP8PVLuw9b9sExg5w==",
+    "CosmosDatabaseName": "Dev-Mongo-DB",
+    "CosmosDbUserName": "dev-mongo-prac",
+    "SmtpUser": "iamopenanirban@gmail.com",
+    "SmtpPort": "587",
+    "SmtpHost": "smtp.gmail.com",
+    "SmtpPassword": "@nirockS1994",
+    "EmailSubject": "Successfully Registered"
+
+
+
+  }
+}

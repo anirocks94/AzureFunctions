@@ -1,0 +1,12 @@
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\net5.0\FuncAppDAL.deps.json
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\net5.0\FuncAppDAL.dll
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\net5.0\ref\FuncAppDAL.dll
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\bin\Debug\net5.0\FuncAppDAL.pdb
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.AssemblyInfo.cs
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.dll
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\ref\FuncAppDAL.dll
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.pdb
+C:\Users\user\Source\Repos\AzureFunctions\FuncAppDAL\obj\Debug\net5.0\FuncAppDAL.csprojAssemblyReference.cache
